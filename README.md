@@ -10,7 +10,7 @@ Game created following "ClearCode" tutorial from YouTube
 
 To do later:
 
-1. Correct the way the game behave when it's over (game restarts simply by pressing SPACE button):\n
+1. Correct the way the game behave when it's over (game restarts simply by pressing SPACE button):
 1.1 Possible solutions:
 - Create a Game Over title with some new entry/behave (save high score/change the button to restart the game)
 ----
