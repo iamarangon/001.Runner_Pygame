@@ -1,4 +1,4 @@
-# Runner Game
+# Runner Game - Description
  Basic 2D Runner Game
 
 Game created following "ClearCode" tutorial from YouTube
