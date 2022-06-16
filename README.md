@@ -1,4 +1,4 @@
-# 1.Runner
+# Runner Game
  Basic 2D Runner Game
 
 Game created following "ClearCode" tutorial from YouTube
@@ -13,7 +13,7 @@ To do later:
 1. Correct the way the game behave when it's over (game restarts simply by pressing SPACE button):
 - Possible solutions:
     * Create a Game Over title with some new entry/behave (save high score/change the button to restart the game)
-    
+
 2. Save scores:
 - I need to implement an entry in the Game Over Title to save the current score with a Player Name;
 - Could either enter the Player Name in the Game Menu, before starting, or just entry it everytime the game ends;
