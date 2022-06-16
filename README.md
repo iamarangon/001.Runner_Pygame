@@ -8,7 +8,7 @@ Game created following "ClearCode" tutorial from YouTube
 
 -----------------------
 
-To do later:
+# To do later
 
 1. Correct the way the game behave when it's over (game restarts simply by pressing SPACE button):
 - Possible solutions:
