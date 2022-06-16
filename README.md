@@ -19,5 +19,10 @@ To do later:
 
 - Could either enter the Player Name in the Game Menu, before starting, or just entry it everytime the game ends;
 
+<<<<<<< HEAD
 - Use a json file to save it, so I can create a "High Score Menu" in the Game Menu;
     * Must save only a few scores (create a if condition to check if the value is higher than those already saved);
+=======
+2.3 Use a json file to save it, so I can create a "High Score Menu" in the Game Menu;
+2.3.1 Must save only a few scores (create a if condition to check if the value is higher than those already saved);
+>>>>>>> 971fda191fb2ee1c68a22870162c47e6574115ae
